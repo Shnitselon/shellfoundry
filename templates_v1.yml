@@ -64,21 +64,21 @@ templates:
         project_name :
         family_name: Switch
       description : 2nd generation shell template for a standard switch
-      repository : https://github.com/QualiSystems/shellfoundry-tosca-networking-template
+      repository : https://github.com/johnathanvidu/shellfoundry-tosca-networking-template
       min_cs_ver: 8.0
     - name : gen2/networking/router
       params:
         project_name :
         family_name: Router
       description : 2nd generation shell template for a standard router
-      repository : https://github.com/QualiSystems/shellfoundry-tosca-networking-template
+      repository : https://github.com/johnathanvidu/shellfoundry-tosca-networking-template
       min_cs_ver: 8.0
     - name : gen2/networking/wireless-controller
       params:
         project_name :
         family_name: WirelessController
       description : 2nd generation shell template for a standard wireless controller
-      repository : https://github.com/QualiSystems/shellfoundry-tosca-networking-template
+      repository : https://github.com/johnathanvidu/shellfoundry-tosca-networking-template
       min_cs_ver: 8.0
     - name : gen2/compute
       params:
